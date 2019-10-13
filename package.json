@@ -1,0 +1,9 @@
+{
+  "name": "auto-paxg",
+  "version": "1.0.0",
+  "description": "auto trading bot on bithumb",
+  "main": "index.js",
+  "repository": "https://github.com/lolitacon2012/auto-paxg.git",
+  "author": "Liu Dake",
+  "license": "MIT"
+}
